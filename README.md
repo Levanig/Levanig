@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levanig
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Data Analyst
 - ✨ I want to become Data scientist
 
 <!---
